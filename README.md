@@ -1,2 +1,2 @@
 # sparkling-next
-sparkling-next project
+sparkling-next project site
